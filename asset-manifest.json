@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94ca4d5b.chunk.css",
+    "main.js": "/static/js/main.33594ae9.chunk.js",
+    "main.js.map": "/static/js/main.33594ae9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3825ce91.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3825ce91.js.map",
+    "static/js/2.76ccfc60.chunk.js": "/static/js/2.76ccfc60.chunk.js",
+    "static/js/2.76ccfc60.chunk.js.map": "/static/js/2.76ccfc60.chunk.js.map",
+    "static/js/3.dda2f1c4.chunk.js": "/static/js/3.dda2f1c4.chunk.js",
+    "static/js/3.dda2f1c4.chunk.js.map": "/static/js/3.dda2f1c4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.94ca4d5b.chunk.css.map": "/static/css/main.94ca4d5b.chunk.css.map",
+    "static/js/2.76ccfc60.chunk.js.LICENSE.txt": "/static/js/2.76ccfc60.chunk.js.LICENSE.txt",
+    "static/media/bg.fe052125.png": "/static/media/bg.fe052125.png",
+    "static/media/body.265515f9.png": "/static/media/body.265515f9.png",
+    "static/media/eye.6f2c9e38.png": "/static/media/eye.6f2c9e38.png",
+    "static/media/face.9cf3587d.png": "/static/media/face.9cf3587d.png",
+    "static/media/hair.09c62043.png": "/static/media/hair.09c62043.png",
+    "static/media/hand.d235387d.png": "/static/media/hand.d235387d.png",
+    "static/media/pants.4e62d909.png": "/static/media/pants.4e62d909.png",
+    "static/media/weapon.1d4e9a4c.png": "/static/media/weapon.1d4e9a4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3825ce91.js",
+    "static/js/2.76ccfc60.chunk.js",
+    "static/css/main.94ca4d5b.chunk.css",
+    "static/js/main.33594ae9.chunk.js"
+  ]
+}
